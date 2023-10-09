@@ -1,6 +1,7 @@
-# My JavaScript Projects
+My JavaScript Projects
 ----
 
+EXPECTED RELEASE DATE LATE 2024-2025. Thank you for your patience.
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
