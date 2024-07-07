@@ -7,7 +7,7 @@ EXPECTED RELEASE DATE LATE 2024-2025. Thank you for your patience.
 What is JavaScript?
 JavaScript is a programming language that developers use to make interactive webpages. From refreshing social media feeds to displaying animations and interactive maps, JavaScript functions can improve a website's user experience. As a client-side scripting language, it is one of the core technologies of the World Wide Web. For example, when browsing the internet, anytime you see an image carousel, a click-to-show dropdown menu, or dynamically changing element colors on a webpage, you see the effects of JavaScript.
 
-THIS SOURCE WAS TAKEN DIRECTLY: https://aws.amazon.com/what-is/javascript/
+THIS SOURCE WAS TAKEN DIRECTLY & CAN BE FOUND HERE: https://aws.amazon.com/what-is/javascript/
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
